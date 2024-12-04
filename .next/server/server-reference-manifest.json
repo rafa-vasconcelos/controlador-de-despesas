@@ -1,0 +1,56 @@
+{
+  "node": {
+    "8843dc11fbfdfdb3937544d56a63da99713ef575": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FgetSaldo.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FgetReceitasDespesas.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FgetTransacoes.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "a27b0df1a7dc1fbbd31f4aa5710794f9105ae0fd": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FgetSaldo.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FgetReceitasDespesas.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FgetTransacoes.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "9e7caa815a1a6bca6a45b857ed6ae08849e6968f": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FgetSaldo.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FgetReceitasDespesas.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FgetTransacoes.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "6f1170688061f3c66f4c50738c924bd331149096": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%2C%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FadicionarTransacao.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FdeleteTransacao.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!",
+        "app/_not-found/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/_not-found/page": "action-browser"
+      }
+    },
+    "f2dddbcc1fb037ca4d4cf484c41f4e4325b50c66": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%2C%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FadicionarTransacao.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FdeleteTransacao.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "b01e66a34f569b9412eb599c95df15c531da1eaa": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%2C%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FadicionarTransacao.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22%2Fhome%2Frafa%2FDocumentos%2Ftcc%2Fsrc%2Factions%2FdeleteTransacao.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Fpf5KgTsWfNzyWV8AgAMmkarmcWD56Yi+hgx2rN+d8k="
+}
