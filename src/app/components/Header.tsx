@@ -9,11 +9,11 @@ import {
 const Header = async () => {
   return (
     <nav>
-      <div className="flex justify-between px-20 py-3 text-white bg-gray-950">
-        <h2 className="font-semibold text-xl">Expense Tracker</h2>
+      <div className="flex justify-between px-5 lg:px-20 py-3 bg-black">
+        <h2 className="font-semibold text-xl">Minhas Despesas</h2>
         <div>
           <SignedOut>
-            <SignInButton />
+            <SignInButton>Login</SignInButton>
           </SignedOut>
           <SignedIn>
             <UserButton />

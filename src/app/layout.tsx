@@ -20,7 +20,9 @@ export default function RootLayout({
   return (
     <ClerkProvider>
       <html lang="en">
-        <body className={`${inter.className} antialiased bg-slate-100`}>
+        <body
+          className={`${inter.className} font-mono antialiased bg-zinc-950 text-gray-200`}
+        >
           <Header />
           <main>{children}</main>
           <ToastContainer />

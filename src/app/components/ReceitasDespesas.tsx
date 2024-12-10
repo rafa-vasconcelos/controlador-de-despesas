@@ -4,7 +4,7 @@ import { formatarMoeda } from "../../../lib/utils";
 const ReceitasDespesas = async () => {
   const { receita, despesa } = await getReceitasDespesas();
   return (
-    <div className="flex bg-white gap-4 px-8 py-4 shadow-md">
+    <div className="flex gap-4 px-8 py-4 shadow-md">
       <div className="border-r-2 pr-4">
         <h4>RECEITAS</h4>
         <p className="text-green-600">{formatarMoeda(receita)}</p>
