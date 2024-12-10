@@ -8,7 +8,7 @@ const ListaTransacoes = async () => {
     return <p>{error}</p>;
   }
   return (
-    <section className="flex flex-col text-left gap-5 lg:min-w-[250px]">
+    <section className="flex flex-col text-left gap-5 w-full lg:w-auto lg:min-w-[250px]">
       <h3 className="border-b text-xl">Histórico</h3>
       <ul>
         {transacoes &&
