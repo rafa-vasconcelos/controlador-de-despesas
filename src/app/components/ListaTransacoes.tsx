@@ -11,10 +11,13 @@ const ListaTransacoes = async () => {
     <section className="flex flex-col text-left gap-5 w-full lg:w-auto lg:min-w-[250px]">
       <h3 className="border-b text-xl">Histórico</h3>
       <ul>
-        {transacoes &&
+        {transacoes ? (
           transacoes.map((transacao: Transacao) => (
             <ItemTransacao transacao={transacao} key={transacao.id} />
-          ))}
+          ))
+        ) : (
+          <p>Não há receitas ou despesas registradas.</p>
+        )}
       </ul>
     </section>
   );

@@ -43,7 +43,7 @@ const AdicionarTransacao = () => {
       <h3 className="border-b lg:text-xl">Adicionar transação</h3>
       <form ref={formRef} className="gap-3 flex flex-col">
         <div className="flex flex-col gap-1">
-          <label htmlFor="transacao">Transação</label>
+          <label htmlFor="transacao">Descrição</label>
           <input
             type="text"
             id="transacao"
